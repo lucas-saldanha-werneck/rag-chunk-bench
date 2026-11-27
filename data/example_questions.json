@@ -1,0 +1,18 @@
+[
+ {"id":"q01","question":"Quantos dias de férias tenho por ano?","answer":"trinta dias corridos de férias por ano"},
+ {"id":"q02","question":"Qual é o período mínimo de férias quando divido em partes?","answer":"não pode ter menos de quatorze dias corridos"},
+ {"id":"q03","question":"Com quanta antecedência peço as férias?","answer":"pelo menos sessenta dias de antecedência"},
+ {"id":"q04","question":"Quantas pessoas da equipe podem tirar férias no fim de ano?","answer":"no máximo duas pessoas por equipe"},
+ {"id":"q05","question":"Quantos dias posso vender no abono?","answer":"a venda de dez dias"},
+ {"id":"q06","question":"Qual o limite de hospedagem por noite em capitais?","answer":"quatrocentos reais por noite em capitais"},
+ {"id":"q07","question":"Posso pedir reembolso de bebida alcoólica?","answer":"bebidas alcoólicas nunca são reembolsadas"},
+ {"id":"q08","question":"Em quantos dias envio a prestação de contas?","answer":"em até quinze dias corridos depois do fim da viagem"},
+ {"id":"q09","question":"Quanto do adiantamento em dólar a empresa cobre?","answer":"até cinquenta por cento do valor estimado"},
+ {"id":"q10","question":"Quantos caracteres a senha precisa ter?","answer":"pelo menos catorze caracteres"},
+ {"id":"q11","question":"Em quanto tempo aviso a segurança se perder o notebook?","answer":"em até uma hora"},
+ {"id":"q12","question":"Depois de quantos minutos a tela bloqueia sozinha?","answer":"após cinco minutos sem uso"},
+ {"id":"q13","question":"Quanto tempo a equipe de segurança leva para responder a um phishing?","answer":"em até quatro horas úteis"},
+ {"id":"q14","question":"Quantos dias por semana posso trabalhar de casa?","answer":"em até três dias por semana"},
+ {"id":"q15","question":"Qual é o valor da ajuda de custo de internet?","answer":"cento e cinquenta reais"},
+ {"id":"q16","question":"Preciso de autorização para trabalhar de outra cidade?","answer":"por mais de trinta dias precisa de autorização do RH"}
+]

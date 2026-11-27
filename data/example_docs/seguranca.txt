@@ -1,0 +1,11 @@
+Norma de segurança da informação da empresa fictícia Exemplo Ltda. (texto inventado para demonstração).
+
+Todas as senhas de contas corporativas precisam ter pelo menos catorze caracteres. A troca é obrigatória a cada cento e oitenta dias, e a empresa não aceita as últimas cinco senhas usadas.
+
+A autenticação em dois fatores é obrigatória para e-mail, VPN e painel de nuvem. Chaves físicas de segurança são o método preferido, e códigos por SMS só valem como último recurso.
+
+Notebooks da empresa devem ter disco criptografado e bloqueio automático de tela após cinco minutos sem uso. Em caso de perda ou roubo, o funcionário avisa a equipe de segurança em até uma hora, pelo telefone de plantão.
+
+Dados de clientes nunca podem ser copiados para serviços pessoais de armazenamento. Arquivos com dados pessoais só podem ser enviados por e-mail quando estiverem protegidos por senha enviada em outro canal.
+
+Incidentes suspeitos, como e-mails de phishing, devem ser encaminhados ao endereço de segurança. A equipe responde em até quatro horas úteis e registra o caso no sistema de incidentes.
